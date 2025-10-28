@@ -1,2 +1,3 @@
 # firstcode
-heyy
+this is my first project 
+
